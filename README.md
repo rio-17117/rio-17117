@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **loidxnightfall0101@gmail.com**
 
-- ⚡ Fun fact **I think am casual**
+- ⚡ Fun fact **I think am too casual**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
