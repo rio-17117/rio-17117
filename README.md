@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mandeep virdi</h1>
-<h3 align="center">A guy who is trying</h3>
+<h3 align="center">Cool</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rio-17117&label=Profile%20views&color=0e75b6&style=flat" alt="rio-17117" /> </p>
 
